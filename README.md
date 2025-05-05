@@ -2,8 +2,5 @@
 
 1. Run the make file
    
-    <html>
-      <head>
-            make
-      </head>
-    </html>
+<code>make clean</code>
+<code>make</code>
