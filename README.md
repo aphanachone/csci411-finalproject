@@ -2,5 +2,5 @@
 
 1. Run the make file
    
-make clean
-make
+   make clean
+   make
