@@ -29,9 +29,11 @@ The tests include a standard 9x9 board, 16x16 board, 25x25 board, and error hand
 
 ### sudoku_maker.cpp
 
-This allowed me to create a sudoku boards of 9x9, 16x16, 25x25, 36x36, and upto 100x100. 
+This allowed me to create a sudoku boards of 9x9, 16x16, 25x25, 36x36, and upto 100x100. N must be a squarable value.
+
 It will ask for the desired N and the amount of empty cells. It empties cells at random so the larger the boards get, the more unsure it is if it will be possible to solve them.
-To ensure the board has only one solution, it is recommended to have a maximum of 40% as empty.
+
+To best create a board with only one solution, it is recommended to have a maximum of 40% as empty.
 
 It then outputs the puzzle in a format that sudoku_solver accepts and the desired solution.
 
