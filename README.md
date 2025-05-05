@@ -2,7 +2,6 @@
 
 ## Instructions
 
----
 
 1. Run the make file
    
@@ -26,7 +25,7 @@ The tests include a standard 9x9 board, 16x16 board, 25x25 board, and error hand
 
 ---
 
-Included are files purely for curiosity and to confirm the validity of sudoku_solver.cpp, if needed.
+# Included are files purely for curiosity and to confirm the validity of sudoku_solver.cpp, if needed.
 
 ## sudoku_maker.cpp
 
