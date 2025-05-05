@@ -39,4 +39,4 @@ It then outputs the puzzle in a format that sudoku_solver accepts and the desire
 
 ### referee.cpp
 
-This file allows us to confirm if a solved sudoku board is valid and compare the solutions of sudoku_maker with the output of sudoku_solver.
+This file allowed me to confirm if a solved sudoku board is valid (meaning no reoccurring values in the columns, rows, or subgrids) and compare the solutions of sudoku_maker with the output of sudoku_solver.
