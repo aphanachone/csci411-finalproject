@@ -14,7 +14,7 @@
 
 <code>./run_tests.sh</code>
 
-<br>
+---
 
 This will test the five input files in /test/
 
