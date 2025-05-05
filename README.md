@@ -1,5 +1,7 @@
 # csci411-finalproject
 
+## Instructions
+
 ---
 
 1. Run the make file
