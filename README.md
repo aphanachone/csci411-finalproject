@@ -2,5 +2,8 @@
 
 1. Run the make file
    
-   make clean
-   make
+    <html>
+      <head>
+         make
+      </head>
+    </html>
